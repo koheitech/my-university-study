@@ -1,0 +1,4 @@
+only 1 string
+and 2Hello World
+My name is Kohei
+How are you doing?
